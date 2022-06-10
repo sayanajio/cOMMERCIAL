@@ -1,0 +1,58 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card-img {
+    height: 150px;
+}
+
+.car center {
+    height: 20px;
+}
+
+.bgcolor {
+    background-color: #dbfaff;
+}
+
+.card-bg {
+    background-color: #c9edf3;
+}
+
+.none {
+    font-size: medium;
+    text-decoration: none;
+}
+
+.psbgc {
+    background-color: #dbfaff;
+}
+
+.bg-darkblue {
+    background-color: #031c4d;
+}
+
+.text-light9 {
+    color: #dadada;
+}
+
+.text-col {
+    color: darkblue;
+}
+
+.star {
+    color: #fdb01c;
+}
+
+.text-red {
+    color: #fd7777;
+}
+
+.bg-black {
+    border: 2px dashed #031c4d;
+    background-color: #e9f0ff;
+    padding: 1px;
+}
+
+.pro-bar {
+    background-color: #d7e3fd;
+}
